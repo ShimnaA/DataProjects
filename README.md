@@ -1,6 +1,6 @@
 **K Nearest Neighbor**
 
-    Data - [KNN_Project_Data]
+    Data - [Classified Data]
 
         classified data set from a company, with hidden feature column names.
         Used KNN to create a model that directly predicts a class for a new data point based on features.
@@ -20,3 +20,13 @@
 
         - Classified using Decision Tree and Random Forest after doing a few data analysis
         - This is a biased dataset as well as small and hence Random Forest did not outperform Decision Tree
+
+    Data - [loan_data.csv]
+    
+            Public dataset  from LendingClub.com (lending data from 2007-2010)
+            Try to classify and predict whether or not the borrower paid back their loan in full. 
+    
+            - Analysed data using visualization.
+            - catergorical feature converted to feature columns with dummy variables.
+            - Trained a Decision Tree model and Random Forest model 
+            - Evaluated the model
