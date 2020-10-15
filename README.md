@@ -38,4 +38,13 @@
             - Classified using Support Vector Machine model
             - GridSearchCV to select best C, gamma value
             - Evaluated the model
-        
+            
+    Data - [iris Dataset from seaborn]
+    
+            - Classify using Support Vector Machine model
+            - Visualize dataset
+            - Practice GridSearchCV 
+            - Evaluate the model
+            
+    
+    
