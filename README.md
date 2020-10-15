@@ -30,3 +30,12 @@
             - catergorical feature converted to feature columns with dummy variables.
             - Trained a Decision Tree model and Random Forest model 
             - Evaluated the model
+            
+**Support Vector Machine**
+
+    Data - [breast Cancer Dataset in Scikit learn]
+
+            - Classified using Support Vector Machine model
+            - GridSearchCV to select best C, gamma value
+            - Evaluated the model
+        
